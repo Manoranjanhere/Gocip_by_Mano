@@ -11,17 +11,17 @@ export const Prices = [
     },
     {
       _id: 2,
-      name: "$100 to 299",
+      name: "₹100 to 299",
       array: [100, 299],
     },
     {
       _id: 3,
-      name: "$300 to 499",
+      name: "₹300 to 499",
       array: [300, 499],
     },
     {
       _id: 4,
-      name: "$500 or more",
+      name: "₹500 or more",
       array: [500, 9999],
     },
   ];

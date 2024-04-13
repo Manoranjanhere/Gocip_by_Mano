@@ -19,7 +19,7 @@ const Contact = () => {
             vaialible
           </p>
           <p className="mt-3">
-            <BiMailSend /> stweakap@gmail.com
+            <BiMailSend /> stewkap@gmail.com
           </p>
           <p className="mt-3">
             <BiPhoneCall /> : 9178388822(Krutika)
